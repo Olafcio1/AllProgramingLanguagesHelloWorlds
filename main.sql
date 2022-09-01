@@ -1,4 +1,4 @@
-CREATE FUNCTION hello_world()
+CREATE FUNCTION main()
 RETURNS VOID AS $$
 BEGIN
 
