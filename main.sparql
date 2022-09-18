@@ -1,0 +1,4 @@
+SELECT (COUNT(?s) as ?numTriples)
+WHERE {
+    ?s ?p ?o .
+}
